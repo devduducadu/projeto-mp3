@@ -12,10 +12,6 @@
 
 # FIM
 
-# quero criar um projeto de conversor de audios em python, no qual permite eu pegar o link ou baixar o video do youtube, entrar em meu proprio site e converter para mp3 entre outras formas de audi
-#ok, agora eu preciso que voce especifique o que cada biblioeca e framework faz e o conceito e comandos de cada linha de codigo pois quero ter uma noçao e um aprendizado nesse projeto, quero estar por dentro de seus conceitos e detalhes de tudo que foi usado
-
-
 # PASSO1 extrair audio do video.
 import os
 from flask import Flask, request, render_template, redirect, url_for, send_from_directory
